@@ -1,1 +1,0 @@
-C:\Work\AndroidProjects\ObjectLearningTool\OpenCV\libcxx_helper\CMakeLists.txt

@@ -1,1 +1,0 @@
-C:\Work\AndroidProjects\ObjectLearningTool\OpenCV\build\intermediates\cxx\Debug\2x6j294r\obj\x86_64
