@@ -1,0 +1,21 @@
+# ninja log v5
+1	397	7336610973387003	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	c6c05fd4456f3dac
+398	501	7336610974284899	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/armeabi-v7a/libobjectlearningtool.so	4019ebd7d653fdd2
+0	9	0	clean	d0ed652a55d7c727
+1	641	7336612721273882	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	c6c05fd4456f3dac
+642	893	7336612724296849	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/armeabi-v7a/libobjectlearningtool.so	4019ebd7d653fdd2
+0	7	0	clean	d0ed652a55d7c727
+3	562	7337208802714055	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	c6c05fd4456f3dac
+563	677	7337208803711518	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/armeabi-v7a/libobjectlearningtool.so	4019ebd7d653fdd2
+0	9	0	clean	d0ed652a55d7c727
+2	581	7337209120017767	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	c6c05fd4456f3dac
+581	725	7337209121437089	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/armeabi-v7a/libobjectlearningtool.so	4019ebd7d653fdd2
+0	9	0	clean	d0ed652a55d7c727
+16	567	7337209780944086	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	c6c05fd4456f3dac
+568	649	7337209781709828	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/armeabi-v7a/libobjectlearningtool.so	4019ebd7d653fdd2
+0	7	0	clean	d0ed652a55d7c727
+1	407	7337229908067446	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	c6c05fd4456f3dac
+407	484	7337229908693015	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/armeabi-v7a/libobjectlearningtool.so	4019ebd7d653fdd2
+1	75	0	clean	d0ed652a55d7c727
+3	514	7337254146848829	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	c6c05fd4456f3dac
+515	798	7337254149286232	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/armeabi-v7a/libobjectlearningtool.so	4019ebd7d653fdd2

@@ -1,0 +1,1 @@
+C:\Work\AndroidProjects\ObjectLearningTool\app\src\main\cpp\CMakeLists.txt

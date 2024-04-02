@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Work\\AndroidProjects\\ObjectLearningTool\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Work\\AndroidProjects\\ObjectLearningTool\\app\\.cxx\\RelWithDebInfo\\1x70446n\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Work\\AndroidProjects\\ObjectLearningTool\\app\\.cxx\\RelWithDebInfo\\1x70446n\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "objectlearningtool::@6890427a1f51a3e7e1df": {
+      "artifactName": "objectlearningtool",
+      "abi": "x86",
+      "output": "C:\\Work\\AndroidProjects\\ObjectLearningTool\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\1x70446n\\obj\\x86\\libobjectlearningtool.so",
+      "runtimeFiles": []
+    }
+  }
+}

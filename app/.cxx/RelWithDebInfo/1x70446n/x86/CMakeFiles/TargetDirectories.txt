@@ -1,0 +1,3 @@
+C:/Work/AndroidProjects/ObjectLearningTool/app/.cxx/RelWithDebInfo/1x70446n/x86/CMakeFiles/objectlearningtool.dir
+C:/Work/AndroidProjects/ObjectLearningTool/app/.cxx/RelWithDebInfo/1x70446n/x86/CMakeFiles/edit_cache.dir
+C:/Work/AndroidProjects/ObjectLearningTool/app/.cxx/RelWithDebInfo/1x70446n/x86/CMakeFiles/rebuild_cache.dir

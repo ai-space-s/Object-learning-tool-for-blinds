@@ -1,0 +1,22 @@
+# ninja log v5
+0	7	0	clean	d0ed652a55d7c727
+0	431	7336610979138745	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	4f0aa2384e86f992
+433	557	7336610980273496	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/x86/libobjectlearningtool.so	54f138700720bde0
+0	7	0	clean	d0ed652a55d7c727
+2	371	7336612729073330	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	4f0aa2384e86f992
+372	463	7336612729742601	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/x86/libobjectlearningtool.so	54f138700720bde0
+0	7	0	clean	d0ed652a55d7c727
+2	487	7337208809174861	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	4f0aa2384e86f992
+488	623	7337208810400644	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/x86/libobjectlearningtool.so	54f138700720bde0
+0	7	0	clean	d0ed652a55d7c727
+2	352	7337209125940050	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	4f0aa2384e86f992
+353	458	7337209126552316	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/x86/libobjectlearningtool.so	54f138700720bde0
+1	8	0	clean	d0ed652a55d7c727
+1	351	7337209785695987	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	4f0aa2384e86f992
+352	423	7337209786344152	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/x86/libobjectlearningtool.so	54f138700720bde0
+0	7	0	clean	d0ed652a55d7c727
+2	428	7337229913448332	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	4f0aa2384e86f992
+429	509	7337229914157268	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/x86/libobjectlearningtool.so	54f138700720bde0
+0	6	0	clean	d0ed652a55d7c727
+3	644	7337254157420011	CMakeFiles/objectlearningtool.dir/native-lib.cpp.o	4f0aa2384e86f992
+645	761	7337254158522985	C:/Work/AndroidProjects/ObjectLearningTool/app/build/intermediates/cxx/Debug/3h2l5y6m/obj/x86/libobjectlearningtool.so	54f138700720bde0
